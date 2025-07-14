@@ -285,6 +285,11 @@ body {
       max-width: 170px !important;
       height: 220px !important;
     }
+
+    .media_sec{
+        padding: 4px 20px;
+        font-size: 14px;
+    }
     .cantent-card2 img {
         max-width: 100px !important;
         height: 100px !important;
@@ -972,4 +977,14 @@ font-style: Medium;
     justify-content: center;
     align-items: center;
     margin: 10px 0;
+  }
+
+
+  .media_sec{
+    margin: 100px auto;
+    padding: 12px 60px;
+    color:#fff;
+    font-size: 26px;
+    border-radius: 20px 50px;
+    background-color: #00F97D;
   }
